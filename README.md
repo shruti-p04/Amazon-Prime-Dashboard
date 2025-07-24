@@ -33,8 +33,7 @@ To analyze Amazon Prime video data and visualize key insights to:
 # Contact
 
 For queries or collaboration:
-# Shruti Patil 
- [LinkedIn](https://www.linkedin.com/in/shruti-patil-031917254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+# Shruti Patil [LinkedIn](https://www.linkedin.com/in/shruti-patil-031917254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 ⭐If you like this project, give it a star on GitHub!
